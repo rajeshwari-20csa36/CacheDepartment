@@ -1,0 +1,1 @@
+select * from DEPARTMENT where ID= '106';
